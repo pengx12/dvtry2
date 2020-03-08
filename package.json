@@ -1,0 +1,20 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/data-set": "0.11.1",
+    "@antv/g2plot": "latest",
+    "lodash": "4.17.15"
+  },
+  "name": "9nlsn",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

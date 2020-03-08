@@ -1,0 +1,8 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/data-set": "0.11.1",
+    "@antv/g2plot": "latest",
+    "lodash": "4.17.15"
+  }
+}
