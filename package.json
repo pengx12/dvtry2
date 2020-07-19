@@ -3,7 +3,7 @@
   "dependencies": {
     "@antv/data-set": "0.11.1",
     "@antv/g2plot": "latest",
-    "lodash": "4.17.15"
+    "lodash": "4.17.19"
   },
   "name": "9nlsn",
   "description": null,
